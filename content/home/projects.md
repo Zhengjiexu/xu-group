@@ -74,4 +74,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Oct. 2016 － Oct. 2017
+Participant Innovation Project of Guangxi Graduate Education (XYCSZ2017054)
+15,000 RMB
 
+Oct. 2017 － Oct. 2018
+Host Innovation Project of Guangxi Graduate Education (XYCSZ2018082)
+15,000 RMB

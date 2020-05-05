@@ -100,14 +100,14 @@ Year 2018
 [13]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Duqu Wei. Surface Plasmon Polariton Waveguide by Bottom and Top of Graphene. Plasmonics, 2018, 13(5), 1513-1522. (Q2, IF = 2.366), DOI: 10.1007/s11468-017-0658-2
 
 Year 2017
+
 [14]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Shuxiang Song. New surface plasmon polariton waveguide based on GaN nanowires. Results in Physics, 2017, 7, 381-384. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2016.12.019
 
 [15]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Duqu Wei. Dye gain gold NW array of surface plasmon polariton waveguide. Results in Physics, 2017, 7, 895-898. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2017.02.006
 
 
 
-
-Secondary contributions：
+Secondary contributions
 
 
 [16]	 Ge Wang, Jun Zhu, Jian Lou, Zhengjie Xu. Research progress of nano－enhanced surface plasmon resonance sensing technology. Laser Journal, 2018, 39(8). (in Chinese) DOI: 10. 14016 /j．cnki．jgzz. 2018. 08. 001

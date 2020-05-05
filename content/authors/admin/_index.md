@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-  #- Plasmonic
-  #- Pervoskite Solar Cell
-  #- Photovolatic devices
+interests:
+  - Plasmonic
+  - Pervoskite Solar Cell
+  - Photovolatic devices
 
 
 #education:
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Xu is a PhD student of condensed matter physics at the Southern Normal University. His research interests include plasmonic, pervoskite solar cell and other photovolatic devices.
+Xu is a PhD student of condensed matter physics at the Southern China Normal University. His research interests include plasmonic, pervoskite solar cell and other photovolatic devices.

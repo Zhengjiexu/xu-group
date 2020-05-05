@@ -60,20 +60,20 @@ date_format = "Jan 2006"
   title = "Outstanding Master Graduate"
   date_start = "2019-06-01"
   date_end = ""
-  #description = ""
+  description = ""
 
 [[item]]
   organization = "Guangxi Normal University"
   title = "Excellent Master Thesis"
-  date_start = "2019-06-1"
+  date_start = "2019-06-01"
   date_end = ""
-  #description = ""
+  description = ""
 
 [[item]]
   organization = "Ministry of Education of the P. R. China"
   title = "National Scholarship for Graduate Students"
   url = ""
-  date_start = "2018-06-1"
+  date_start = "2018-06-01"
   date_end = ""
   description = ""
 
@@ -81,9 +81,9 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Guangxi Normal University"
   title = "National academic scholarship (first prize of master's degree)"
-  date_start = "2017-06-1"
+  date_start = "2017-06-01"
   date_end = ""
-  #description = ""
+  description = ""
 
 
 +++

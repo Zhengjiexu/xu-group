@@ -50,10 +50,40 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Department of education of Guangxi Zhuang Autonomous Region"
-  title = "Outstanding Master Graduate"
+  title = "Provincial Outstanding Master Graduate"
   date_start = "2019-06-01"
   date_end = ""
   description = "Only 1 person in the whole college"
+
+[[item]]
+  organization = "Guangxi Normal University"
+  title = "Outstanding Master Graduate"
+  date_start = "2019-06-01"
+  date_end = ""
+  #description = ""
+
+[[item]]
+  organization = "Guangxi Normal University"
+  title = "Excellent Master Thesis"
+  date_start = "2019-06-1"
+  date_end = ""
+  #description = ""
+
+[[item]]
+  organization = "Ministry of Education of the P. R. China"
+  title = "National Scholarship for Graduate Students"
+  url = ""
+  date_start = "2018-06-1"
+  date_end = ""
+  description = ""
+
+  
+[[item]]
+  organization = "Guangxi Normal University"
+  title = "National academic scholarship (first prize of master's degree)"
+  date_start = "2017-06-1"
+  date_end = ""
+  #description = ""
 
 
 +++

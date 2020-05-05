@@ -20,23 +20,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Plasmonic
-  - Pervoskite Solar Cell
-  - Photovolatic devices
+#interests:
+  #- Plasmonic
+  #- Pervoskite Solar Cell
+  #- Photovolatic devices
 
 
-education:
-  courses:
-  - course: PhD in Condensed Matter Physics
-    institution: Southern Normal University, Guangzhou, China
-    year: 2022
-  - course: M.Phil in Electronics and Communications Engineering
-    institution: Guangxi Normal University, Guilin, China
-    year: 2019
-  - course: B.E. in Communication Engineering
-    institution: Nanfang College of Sun Yat-Sen University, Guangzhou, China
-    year: 2016
+#education:
+  #courses:
+  #- course: PhD in Condensed Matter Physics
+    #institution: Southern Normal University, Guangzhou, China
+    #year: 2022
+  #- course: M.Phil in Electronics and Communications Engineering
+    #institution: Guangxi Normal University, Guilin, China
+    #year: 2019
+  #- course: B.E. in Communication Engineering
+    #institution: Nanfang College of Sun Yat-Sen University, Guangzhou, China
+    #year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

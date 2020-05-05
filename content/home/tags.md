@@ -19,10 +19,8 @@ subtitle = ""
   # Minimum and maximum font sizes (1.0 = 100%).
   font_size_min = 0.7
   font_size_max = 2.0
-
++++
 
 Sep 25 to Sep 27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China
 
 Oct 15 – Oct 17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research And Applications, Suzhou, China
-
-+++

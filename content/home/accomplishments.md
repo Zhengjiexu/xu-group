@@ -18,34 +18,77 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+#[[item]]
+  #organization = "Coursera"
+  #organization_url = "https://www.coursera.org"
+  #title = "Neural Networks and Deep Learning"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  #date_start = "2018-10-01"
+  #date_end = ""
+  #description = ""
+
+#[[item]]
+  #organization = "edX"
+  #organization_url = "https://www.edx.org"
+  #title = "Blockchain Fundamentals"
+  #url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  #certificate_url = "https://www.edx.org"
+  #date_start = "2018-03-01"
+  #date_end = ""
+  #description = "Formulated informed blockchain models, hypotheses, and use cases."
+  
+#[[item]]
+  #organization = "DataCamp"
+  #organization_url = "https://www.datacamp.com"
+  #title = "Object-Oriented Programming in R: S3 and R6 Course"
+  #url = ""
+  #certificate_url = "https://www.datacamp.com"
+  #date_start = "2017-07-01"
+  #date_end = "2017-12-21"
+  #description = ""
+
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Department of education of Guangxi Zhuang Autonomous Region"
+  title = "Outstanding Master Graduate"
+  date_start = "2019-06"
+  date_end = ""
+  description = "Only 1 person in the whole college"
+
+[[item]]
+  organization = "Guangxi Normal University"
+  title = "Outstanding Master Graduate"
+  date_start = "2019-06"
+  date_end = ""
+  #description = ""
+
+[[item]]
+  organization = "Guangxi Normal University"
+  #organization_url = "https://www.edx.org"
+  title = "Excellent Master Thesis"
+  #url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  #certificate_url = "https://www.edx.org"
+  date_start = "2019-06"
+  date_end = ""
+  #description = ""
+
+[[item]]
+  organization = "Ministry of Education of the P. R. China"
+  #organization_url = "https://www.coursera.org"
+  title = "National Scholarship for Graduate Students"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2018-06"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Guangxi Normal University"
+  title = "National academic scholarship (first prize of master's degree)e"
+  date_start = "2017-06"
+  date_end = ""
+  #description = ""
+
 
 +++

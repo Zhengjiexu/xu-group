@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Conferences"
-  url = ""
+  url = "#tags"
   weight = 50
 
 #[[main]]

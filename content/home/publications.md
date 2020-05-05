@@ -10,7 +10,7 @@ weight = 90  # Order that this section will appear.
 title = "Recent Publications"
 subtitle = ""
 
-   1. Jun Zhu*(supervisor), Zhengjie Xu, Cong hu, Deli Fu, Duqu Wei. Sense Trace Gases Based Surface Plasmon Polarization Waveguide of Graphene. Measurement, 2019, 144, 67-71. (Q1, IF = 2.791), DOI: 10.1016/j.measurement.2019.05.005
+Jun Zhu*(supervisor), Zhengjie Xu, Cong hu, Deli Fu, Duqu Wei. Sense Trace Gases Based Surface Plasmon Polarization Waveguide of Graphene. Measurement, 2019, 144, 67-71. (Q1, IF = 2.791), DOI: 10.1016/j.measurement.2019.05.005
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

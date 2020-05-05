@@ -102,7 +102,7 @@ Year 2018
 Year 2017
 [14]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Shuxiang Song. New surface plasmon polariton waveguide based on GaN nanowires. Results in Physics, 2017, 7, 381-384. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2016.12.019
 
-[15]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Duqu Wei. Dye gain gold NW array of surface plasmon polariton waveguide. Results in Physics, 2017, 7, 895-898. (IF = 2.147), DOI:10.1016/j.rinp.2017.02.006
+[15]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Duqu Wei. Dye gain gold NW array of surface plasmon polariton waveguide. Results in Physics, 2017, 7, 895-898. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2017.02.006
 
 
 

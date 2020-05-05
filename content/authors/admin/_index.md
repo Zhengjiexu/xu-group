@@ -29,8 +29,8 @@ interests:
 education:
   courses:
   - course: PhD in Condensed Matter Physics
-    #institution: Southern Normal University, Guangzhou, China
-    #year: 2022
+    institution: Southern Normal University, Guangzhou, China
+    year: 2022
   - course: M.Phil in Electronics and Communications Engineering
     institution: Guangxi Normal University, Guilin, China
     year: 2019

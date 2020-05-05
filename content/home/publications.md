@@ -30,7 +30,14 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-  
+   
+   # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = "Jun Zhu*(supervisor), Zhengjie Xu, Cong hu, Deli Fu, Duqu Wei. Sense Trace Gases Based Surface Plasmon Polarization Waveguide of Graphene. Measurement, 2019, 144, 67-71. (Q1, IF = 2.791), DOI: 10.1016/j.measurement.2019.05.005"
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
 [design]
   # Toggle between the various page layout types.
   #   1 = List

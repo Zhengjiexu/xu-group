@@ -56,9 +56,9 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-- icon: researchgate
-   icon_pack: ai
-   link:https://www.researchgate.net/profile/Zhengjie_Xu
+#- icon: researchgate
+   #icon_pack: ai
+   #link:https://www.researchgate.net/profile/Zhengjie_Xu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

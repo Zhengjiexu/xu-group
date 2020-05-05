@@ -77,7 +77,9 @@ subtitle = ""
 
 Host 
 
+
 Oct. 2019 to Oct. 2021, Ph.D's Innovation Project of Guangxi Graduate Education (2019LKXM012), RMB 6,000
+
 Oct. 2017 to Oct. 2018, Master's Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000 
 
 
@@ -85,8 +87,12 @@ Oct. 2017 to Oct. 2018, Master's Innovation Project of Guangxi Graduate Educatio
 
 Participant
 
+
 Oct. 2019 to -, National Natural Science Foundation (51965007), RMB 400,000 
+
 Oct. 2017 to Oct. 2018, Guangxi Natural Science Foundation (2017GXNSFAA198261) Fifth participant, RMB 120,000
+
 Oct. 2017 to Oct. 2018, Guangxi Key Laboratory of Automatic Testing Technology and Instruments (YQ19207) Fourth participant， RMB 50，000
+
 Oct. 2016 to Oct. 2017, Master's Innovation Project of Guangxi Graduate Education (XYCSZ2017054) Second participant, RMB 15,000 
 

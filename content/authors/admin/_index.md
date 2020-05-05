@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-  #- Plasmonic
-  #- Pervoskite Solar Cell
-  #- Photovolatic devices
+interests:
+  - Plasmonic
+  - Pervoskite Solar Cell
+  - Photovolatic devices
 
 
 #education:
@@ -56,7 +56,7 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
- - icon: researchgate
+- icon: researchgate
    icon_pack: ai
    link:https://www.researchgate.net/profile/Zhengjie_Xu
 

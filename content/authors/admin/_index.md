@@ -76,4 +76,5 @@ user_groups:
 - Visitors
 ---
 
-Xu is a PhD student of condensed matter physics at the Southern China Normal University. His research interests include plasmonic, pervoskite solar cell and other photovolatic devices.
+  Xu is a PhD student of condensed matter physics at the Southern Normal University. He received his Ph.D degrees from Institute for Advanced Materials (IAM) Academy of Advanced Optoelectronics, Southern Normal University, China, in 2022. Xu as the main contributor published more than 18 technical articles with a total IF over 30. He has over 5 granted and patents.  
+

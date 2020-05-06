@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   * Outstanding Master Graduate of Guangxi Normal University, 2019
   * Excellent Master Thesis of Guangxi Normal University, 2019 
   * National Scholarship for Graduate Students (Rank 1st), 2018
-  * National academic scholarship (first prize of master's degree), 2017
+  * National Academic Scholarship (first prize of master's degree) (Rank 1st), 2017
   * Admission Academic Scholarship of Guangxi Normal University, 2016
   """
 

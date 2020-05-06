@@ -33,10 +33,15 @@
   url = "#tags"
   weight = 50
 
+[[main]]
+  name = "Extracurricular activities"
+  url = "#activities"
+  weight = 60
+
 #[[main]]
   #name = "Contact"
   #url = "#contact"
-  #weight = 60
+  #weight = 60 (10, 20, 30, 40 and 50, add 10 each)
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

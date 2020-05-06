@@ -65,7 +65,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Ph.D in Condensed Matter Physics"
-  company = "Southern Normal University"
+  company = "Southern China Normal University"
   company_url = ""
   location = "Guangzhou, China"
   date_start = "2019-09-01"

@@ -34,7 +34,7 @@
   weight = 50
 
 [[main]]
-  name = "Extracurricular activities"
+  name = "Activities"
   url = "#activities"
   weight = 60
 

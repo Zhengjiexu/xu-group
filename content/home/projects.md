@@ -78,7 +78,7 @@ subtitle = ""
 Host 
 
 
-Oct. 2019 to Oct. 2021, Ph.D's Innovation Project of Guangxi Graduate Education (2019LKXM012), RMB 6,000
+Oct. 2019 to Oct. 2021, Ph.D's Innovation Project of Graduate School of South China Normal University (2019LKXM012), RMB 6,000
 
 Oct. 2017 to Oct. 2018, Master's Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000 
 

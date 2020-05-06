@@ -112,7 +112,7 @@ Secondary contributions
 
 [16]	 Ge Wang, Jun Zhu, Jian Lou, Zhengjie Xu. Research progress of nano－enhanced surface plasmon resonance sensing technology. Laser Journal, 2018, 39(8). (in Chinese) DOI: 10. 14016 /j．cnki．jgzz. 2018. 08. 001
 
-[17]	Jun Zhu*(supervisor), Wenju Xu, Zhengjie Xu, Fu Deli, Duqu Wei. Multilayered surface plasma resonance waveguide sensing device. Optik, 2017, 135, 36-41. (Q2, IF = 1.191),DOI:10.1016/j.ijleo.2017.01.049
+[17]	Jun Zhu*(supervisor), Wenju Xu, Zhengjie Xu, Fu Deli, Duqu Wei. Multilayered surface plasma resonance waveguide sensing device. Optik, 2017, 135, 36-41. (Q2, IF = 1.191), DOI:10.1016/j.ijleo.2017.01.049
 
 [18]	Zhu Jun*(supervisor), Wenju Xu, Zhengjie Xu, Deli Fu, Shuxiang Song, Duqu Wei. Surface plasmon polariton mode in the metal-insulator-metal waveguide. Optik, 2017, 134, 187-193. (Q2, IF = 1.191), DOI:10.1016/j.ijleo.2017.01.047
 

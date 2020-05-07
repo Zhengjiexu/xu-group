@@ -11,7 +11,9 @@ title = "Publications"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
+  title = "Sense Trace Gases Based Surface Plasmon Polarization Waveguide of Graphene"
+  author = "Jun Zhu*(supervisor), Zhengjie Xu, Cong hu, Deli Fu, Duqu Wei"
+ # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)

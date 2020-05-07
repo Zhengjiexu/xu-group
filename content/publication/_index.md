@@ -1,7 +1,5 @@
 ---
-title: publications
-
-
+title: publication
 
 
 # View.

@@ -74,8 +74,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<br> 2017 – 2018 <br>
+2017 – 2018 <br>
 
 [1] Presidium, Graduate Student Association, Guangxi Normal University Communist Youth
 League

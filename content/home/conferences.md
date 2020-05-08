@@ -3,14 +3,15 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 115  # Order that this section will appear.
 
-title = "Conferences"
+title = "Conference"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "conference"
+  # page_type = "activities"
+  
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -20,48 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
   
-  [[content.filter_button]]
-    name = "2020"
-    tag = "2020"
-
-  [[content.filter_button]]
-    name = "2019"
-    tag = "2019"
+  # [[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
   
-  #[[content.filter_button]]
-  #  name = "Android"
-  #  tag = "Android"
-  
-  #[[content.filter_button]]
-    #name = "Web"
-    #tag = "Web"
-  
-  #[[content.filter_button]]
-  #  name = "Internship"
-  #  tag = "Internship"
-
-  #[[content.filter_button]]
-  #  name = "Competition"
-  #  tag = "Competition"
-  
-  #[[content.filter_button]]
-    #name = "School"
-    #tag = "School"
-
-  #[[content.filter_button]]
-  #  name = "Other"
-  #  tag = "Demo"
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
+  #   2 = Compact
   #   3 = Card
   #   5 = Showcase
   view = 3
@@ -96,5 +74,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[1] Sep 25 to Sep 27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China
+
+[2] Oct 15 to Oct 17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research and Applications, Suzhou, China
+
 
 

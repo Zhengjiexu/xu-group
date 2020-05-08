@@ -4,7 +4,7 @@ date = 2020-05-08T00:00:00
 layout = "conferences"
 
 # Project title.
-title = "Sep 25 to Sep 27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China"
+title = "The 1st International Conference of Smart World"
 
 # Project summary to display on homepage.
 summary = """

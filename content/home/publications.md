@@ -69,7 +69,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<br> <br> main contributions   <br>
+main contributions   <br>
 
 Year 2019 <br> 
 

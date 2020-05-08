@@ -69,9 +69,9 @@ subtitle = ""
  css_class = ""
 +++
 
-main contributions  <br> <br>
+<br> <br> main contributions   <br>
 
-Year 2019 <br> <br>
+Year 2019 <br> 
 
 [1]	Jun Zhu*(supervisor), Zhengjie Xu, Cong hu, Deli Fu, Duqu Wei. Sense Trace Gases Based Surface Plasmon Polarization Waveguide of Graphene. Measurement, 2019, 144, 67-71. (Q1, IF = 2.791), DOI:10.1016/j.measurement.2019.05.005
 
@@ -81,7 +81,7 @@ Year 2019 <br> <br>
 
 [4]	Jun Zhu*(supervisor), Zhengjie Xu, Cong Hu. Laser Spot Center Detection and Comparison Test. Photonic Sensors, 2019, 9(1), 49-52. (Q3, IF = 1.12), DOI:10.1007/s13320-018-0432-x
 
-<br> <br> Year 2018 <br>
+<br> Year 2018 <br>
 
 [5]	Jun Zhu*(supervisor), Zhengjie Xu (co-first author), Yuanming Huang. Novel High-Sensitivity Racetrack Surface Plasmon Resonance Sensor Modified by Graphene. Molecules 2018, 23, 1726. (Q1, IF = 3.06), DOI:10.3390/molecules23071726 
 
@@ -101,16 +101,13 @@ Year 2019 <br> <br>
 
 [13]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Duqu Wei. Surface Plasmon Polariton Waveguide by Bottom and Top of Graphene. Plasmonics, 2018, 13(5), 1513-1522. (Q2, IF = 2.366), DOI: 10.1007/s11468-017-0658-2
 
-<br> <br> Year 2017 <br> 
+<br> Year 2017 <br> 
 
 [14]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Shuxiang Song. New surface plasmon polariton waveguide based on GaN nanowires. Results in Physics, 2017, 7, 381-384. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2016.12.019
 
 [15]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Duqu Wei. Dye gain gold NW array of surface plasmon polariton waveguide. Results in Physics, 2017, 7, 895-898. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2017.02.006
 
-
-
-<br> <br> Secondary contributions <br> <br> <br> <br>
-
+<br> <br> Secondary contributions <br> 
 
 [16]	 Ge Wang, Jun Zhu, Jian Lou, Zhengjie Xu. Research progress of nano－enhanced surface plasmon resonance sensing technology. Laser Journal, 2018, 39(8). (in Chinese) DOI: 10. 14016 /j．cnki．jgzz. 2018. 08. 001
 

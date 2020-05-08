@@ -39,8 +39,8 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "AI"
-    tag = "AI"
+    name = "2019"
+    tag = "2019"
   
 [design]
   # Toggle between the various page layout types.
@@ -48,7 +48,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.

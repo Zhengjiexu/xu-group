@@ -30,6 +30,18 @@ subtitle = ""
   #  publication_type = ""
   #  exclude_featured = false
   
+    
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+  
+  [[content.filter_button]]
+    name = "AI"
+    tag = "AI"
+  
 [design]
   # Toggle between the various page layout types.
   #   1 = List

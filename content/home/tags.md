@@ -2,7 +2,7 @@
 # Tag Cloud widget.
 widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
 title = "Conferences"
@@ -21,7 +21,3 @@ subtitle = ""
   font_size_max = 2.0
 +++
 
-The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China, Sep 25 to Sep 27, 2017
-
-
-The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research And Applications, Suzhou, China, Oct 15 – Oct 17, 2017

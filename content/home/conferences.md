@@ -30,9 +30,8 @@ subtitle = ""
   #  publication_type = ""
   #  exclude_featured = false
   
-  #Default filter index (e.g. 0 corresponds to the first [[filter_button]] instance below).
-  filter_default = 0 
-
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
   
   [[content.filter_button]]
     name = "All"
@@ -49,8 +48,8 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 3
-  
-  #Choose how many columns the section has. Valid values: 1 or 2.
+ 
+ # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
   
 [design.background]

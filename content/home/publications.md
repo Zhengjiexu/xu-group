@@ -37,6 +37,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"  
+
+  [[content.filter_button]]
+    name = "2019"
+    tag = "2019"
        
 [design]
   # Toggle between the various page layout types.

@@ -1,10 +1,10 @@
 +++
 # Date this page was created.
 date = 2020-05-08T00:00:00
-layout = "conferences"
+layout = "Conference"
 
 # Project title.
-title = "The 1st International Conference of Smart World"
+title = "Sep 25 to Sep 27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China"
 
 # Project summary to display on homepage.
 summary = """

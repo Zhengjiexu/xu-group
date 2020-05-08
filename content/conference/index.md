@@ -1,17 +1,23 @@
----
-title: Sep 25 to Sep 27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China
++++
+# Date this page was created.
+date = 2018-11-10T00:00:00
+layout = "conference"
 
+# Project title.
+title = "Educoder 在线教育课程"
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 1
+# Project summary to display on homepage.
+summary = """
+ 在拥有来自超过 603 所高校，超过 30,000 用户在线教育平台 Educoder 平台上，设计并完成两门在线教育课程：<br>
+ 1). [人脸识别课程](https://www.educoder.net/paths/130)<br>
+ 2). [Web 开发基础课程](https://www.educoder.net/paths/15)
+ 
+ """
 
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
-  
----
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["School","AI","Web"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = "https://www.educoder.net/paths/130"
++++

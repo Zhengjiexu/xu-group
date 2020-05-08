@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 date = 2019-03-06T00:00:00
-layout = "conferences"
+layout = "coference"
 
 # Project title.
 title = "Data2Art 博客"

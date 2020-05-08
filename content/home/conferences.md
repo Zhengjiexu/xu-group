@@ -66,7 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Sep 25 to Sep 27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China
-
-Oct 15 to Oct 17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research and Applications, Suzhou, China
 

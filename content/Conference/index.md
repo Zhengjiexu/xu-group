@@ -8,7 +8,6 @@ title = "Sep 25 to Sep 27, 2017, The 1st International Conference of Smart World
 
 # Project summary to display on homepage.
 summary = """
- 
  """
 
 # Tags: can be used for filtering projects.

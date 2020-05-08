@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "项目"
+title = "Conferences"
 subtitle = ""
 
 [content]
@@ -25,20 +25,20 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "AI"
-    tag = "AI"
+    name = "2020"
+    tag = "2020"
 
   [[content.filter_button]]
-    name = "iOS"
-    tag = "iOS"
+    name = "2019"
+    tag = "2019"
   
   #[[content.filter_button]]
   #  name = "Android"
   #  tag = "Android"
   
-  [[content.filter_button]]
-    name = "Web"
-    tag = "Web"
+  #[[content.filter_button]]
+    #name = "Web"
+    #tag = "Web"
   
   #[[content.filter_button]]
   #  name = "Internship"
@@ -48,9 +48,9 @@ subtitle = ""
   #  name = "Competition"
   #  tag = "Competition"
   
-  [[content.filter_button]]
-    name = "School"
-    tag = "School"
+  #[[content.filter_button]]
+    #name = "School"
+    #tag = "School"
 
   #[[content.filter_button]]
   #  name = "Other"

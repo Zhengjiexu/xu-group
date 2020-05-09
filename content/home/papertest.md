@@ -32,13 +32,13 @@ subtitle = ""
     name = "2018"
     tag = "2018"
   
-  #[[content.filter_button]]
-  #  name = "Android"
-  #  tag = "Android"
+   [[content.filter_button]]
+     name = "2017"
+     tag = "2017"
   
-  #[[content.filter_button]]
-    # name = "Web"
-    # tag = "Web"
+  [[content.filter_button]]
+    name = "participant"
+    tag = "participant" 
   
   #[[content.filter_button]]
   #  name = "Internship"

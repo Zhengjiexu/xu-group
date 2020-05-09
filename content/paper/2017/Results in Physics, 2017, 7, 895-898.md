@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = """[15]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Duqu Wei. Dye gain gold NW array of surface plasmon polariton waveguide. Results in Physics, 2017, 7, 895-898. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2017.02.006
+title = """[14]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Duqu Wei. Dye gain gold NW array of surface plasmon polariton waveguide. Results in Physics, 2017, 7, 895-898. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2017.02.006
 
 """
 

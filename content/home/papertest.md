@@ -37,8 +37,8 @@ subtitle = ""
      tag = "2017"
   
   [[content.filter_button]]
-    name = "participant"
-    tag = "participant" 
+    name = "Participant"
+    tag = "Participant" 
   
   #[[content.filter_button]]
   #  name = "Internship"

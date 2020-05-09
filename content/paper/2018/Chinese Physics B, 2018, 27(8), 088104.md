@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = """[5]	Jun Zhu*(supervisor), Zhengjie Xu (co-first author), Yuanming Huang. Novel High-Sensitivity Racetrack Surface Plasmon Resonance Sensor Modified by Graphene. Molecules 2018, 23, 1726. (Q1, IF = 3.06), DOI:10.3390/molecules23071726 
+title = """[7] Zhengjie Xu, Jun Zhu*(supervisor), Wenju Xu, Fu Deli, Cong Hu, Frank Jiang.  Novel graphene enhancement nanolaser based on hybrid plasmonic waveguides at optical communication wavelength. Chinese Physics B, 2018, 27(8), 088104. (Q2, IF = 1.469), DOI:10.1088/1674-1056/27/8/088104 
 
 """
 

@@ -18,5 +18,5 @@ summary = """
 tags = ["Review"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://doi.org/10.14016/ j. cnki. jgzz. 2018. 02. 008"
+external_link = "http://en.cnki.com.cn/Article_en/CJFDTotal-JGZZ201802002.htm"
 +++

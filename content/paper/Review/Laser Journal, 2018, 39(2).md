@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = """Xu Zhengjie, Xu Wenju, Zhu Jun. Gain and amplification of surface plasma lasers. Laser Journal, 2018, 39(2). (in Chinese) DOI: 10.14016/j.cnki.jgzz.2018.02.008
+title = """[15] Xu Zhengjie, Xu Wenju, Zhu Jun. Gain and amplification of surface plasma lasers. Laser Journal, 2018, 39(2). (in Chinese) DOI: 10.14016/j.cnki.jgzz.2018.02.008
 
 """
 

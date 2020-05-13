@@ -15,7 +15,37 @@
   title = "主页"
   [zh.params]
     description = "Site description in Chinese..."
+  #[[zh.menu.main]]
+    #name = "主页"
+    #url = "#about"
+    #weight = 10
+
   [[zh.menu.main]]
-    name = "关于"
+    name = "主页"
     url = "#about"
     weight = 10
+
+  [[zh.menu.main]]
+    name = "经历"
+    url = "#experiences"
+    weight = 20
+
+  [[zh.menu.main]]
+    name = "项目"
+    url = "#projects"
+    weight = 30
+
+  [[zh.menu.main]]
+    name = "论文"
+    url = "#papers"
+    weight = 40
+
+  [[zh.menu.main]]
+    name = "会议"
+    url = "#conferences"
+    weight = 50
+
+  [[zh.menu.main]]
+    name = "课外活动"
+    url = "#activities"
+    weight = 60

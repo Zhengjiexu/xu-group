@@ -37,6 +37,13 @@
   name = "Activities"
   url = "#activities"
   weight = 60
+  
+  
+[[main]]
+  name = "中文"
+  url = "/zh/"
+  weight = 88
+
 
 #[[main]]
   #name = "Contact"

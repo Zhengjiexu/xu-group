@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhengjie Xu
+title: 徐政杰
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student of Southern China Normal University
+role: 华南师范大学博士研究生
 
 # Organizations/Affiliations
 organizations:
@@ -76,5 +76,7 @@ user_groups:
 - Visitors
 ---
 
-  Xu received his Ph.D degrees from Institute for Advanced Materials (IAM) Academy of Advanced Optoelectronics, Southern Normal University, China, in 2022. Xu as the main contributor published more than 18 technical articles with a total IF over 30. He has over 5 granted and patents.  
+
+  2022年毕业于华南师范大学，先进材料研究所，获理学博士学位。迄今，作为主要贡献人发表科技论文超过18篇，，总影响因子超过30，申请专利超过5项。
+
 

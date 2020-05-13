@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-研究领域:
-  - Plasmonic
-  - Pervoskite Solar Cell
-  - Photovolatic devices
+interests:
+  - 表面等离激元
+  - 钙钛矿太阳能电池
+  - 光电子器件
 
 
 #education:

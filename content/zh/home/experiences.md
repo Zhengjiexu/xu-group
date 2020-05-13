@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2012-09-01"
   date_end = "2016-07-01"
   description = """
-  Accomplishments include:
+  奖项 包括:
   
   * 本科优秀毕业论文
   """
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2019-07-01"
   description = """
-  Accomplishments include:
+  奖项 包括:
   
   * 广西壮族自治区硕士优秀毕业生（全院仅1人）, 2019
   * 广西师范大学硕士优秀毕业生, 2019
@@ -67,11 +67,11 @@ date_format = "Jan 2006"
   title = "凝聚态物理，博士"
   company = "华南师范大学"
   company_url = ""
-  location = "Guangzhou, China"
+  location = "广州，中国"
   date_start = "2019-09-01"
   date_end = "2022-07-01"
   description = """
-  Accomplishments include:
+  奖项 包括:
   
   * 国家学业奖学金（博士一等奖）, 2019
   """

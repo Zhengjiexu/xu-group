@@ -75,24 +75,23 @@ subtitle = ""
  css_class = ""
 +++
 
-Host 
+主持 
 
 
-Oct. 2019 to Oct. 2021, Ph.D's Innovation Project of Graduate School of South China Normal University (2019LKXM012), RMB 6,000
+2019年10月 至 2021年10月, 华南师范大学2019年博士研究生创新项目 （2019LKXM012）, RMB 6,000
 
-Oct. 2017 to Oct. 2018, Master's Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000 
-
-
+2017年10月 至 2018年10月, 广西壮族自治区2017年硕士研究生教育创新项目 （XYCSZ2018082）, RMB 15,000 
 
 
-Participant
 
 
-Oct. 2019 to -, National Natural Science Foundation (51965007), RMB 400,000 
+参与
 
-Oct. 2017 to Oct. 2018, Guangxi Natural Science Foundation (2017GXNSFAA198261) Fifth participant, RMB 120,000
 
-Oct. 2017 to Oct. 2018, Guangxi Key Laboratory of Automatic Testing Technology and Instruments (YQ19207) Fourth participant， RMB 50,000
+2019年10月 至 今, 国家自然科学基金 （51965007), RMB 400,000 
 
-Oct. 2016 to Oct. 2017, Master's Innovation Project of Guangxi Graduate Education (XYCSZ2017054) Second participant, RMB 15,000 
+2017年10月 至 2018年10月, 广西自然科学基金 （2017GXNSFAA198261） 第五参与人, RMB 120,000
 
+2017年10月 至 2018年10月, 广西自动检测技术与仪器重点实验室 （YQ19207） 第四参与人, RMB 50,000
+
+2016年10月 至 2017年10月, 广西壮族自治区2016年硕士研究生教育创新项目 （XYCSZ2017054） 第二参与人, RMB 15,000 

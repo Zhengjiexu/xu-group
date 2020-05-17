@@ -74,9 +74,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[1] Sep 25 to Sep 27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China
+[1] 2017年9月 25日 至 27日, 中国（西安）首届智能世界大会, 智能创新，融合发展, 西安, 中国
 
-[2] Oct 15 to Oct 17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research and Applications, Suzhou, China
+[2] 2017年10月 15日 至 18日, 微纳光学技术与应用交流会, 微纳光学, 苏州, 中国
 
 
 

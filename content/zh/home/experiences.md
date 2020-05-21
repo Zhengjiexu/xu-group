@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   #"""
 
 [[experience]]
-  title = "通信工程，本科"
-  company = "中山大学南方学院"
+  title = "通信工程，本科， 中山大学南方学院"
+  #company = "中山大学南方学院"
   company_url = ""
   location = "广州，中国"
   date_start = "2012-09-01"

@@ -23,6 +23,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+ 
+ [[content.filter_button]]
+    name = "2021"
+    tag = "2021"
   
   [[content.filter_button]]
     name = "2019"

@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = """[16] Zhengjie Xu, Yue Jiang, Zhuoxi Li, Cong Chen, Xiangyu Kong, Yiwang Chen, Guofu Zhou, Jun-Ming Liu, Krzysztof Kempa, Jinwei Gao. A Safe Flexible Self-Powered Wristband System by Integrating Defective MnO2−x Nanosheet-Based Zinc-Ion Batteries with Perovskite Solar Cells. ACS NANO, 2021, xxxx, xxx, xxx-xxx. (Q1, IF = 14.588), DOI:10.1021/acsnano.1c03341"""
+title = """[16] Jiangqi Zhao, Zhengjie Xu (co-first author) , Zhan Zhou, Shibo Xi, Yunpeng Xia, Qingyong Zhang, Lanqin Huang, Liang Mei, Yue Jiang, Jinwei Gao, Zhiyuan Zeng, and Chaoliang Tan. A Safe Flexible Self-Powered Wristband System by Integrating Defective MnO2−x Nanosheet-Based Zinc-Ion Batteries with Perovskite Solar Cells. ACS NANO, 2021, xxxx, xxx, xxx-xxx. (Q1, IF = 14.588), DOI:10.1021/acsnano.1c03341"""
 
 # Project summary to display on homepage.
 summary = """

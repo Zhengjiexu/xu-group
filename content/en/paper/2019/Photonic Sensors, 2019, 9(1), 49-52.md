@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = """[04]	Jun Zhu*(supervisor), Zhengjie Xu, Cong Hu. Laser Spot Center Detection and Comparison Test. Photonic Sensors, 2019, 9(1), 49-52. (Q3, IF = 2.073), DOI:10.1007/s13320-018-0432-x
+title = """[11]	Jun Zhu*(supervisor), Zhengjie Xu, Cong Hu. Laser Spot Center Detection and Comparison Test. Photonic Sensors, 2019, 9(1), 49-52. (Q3, IF = 2.073), DOI:10.1007/s13320-018-0432-x
 
 
 """

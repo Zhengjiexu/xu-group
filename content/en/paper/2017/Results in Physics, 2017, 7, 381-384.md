@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = """[14]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Shuxiang Song. New surface plasmon polariton waveguide based on GaN nanowires. Results in Physics, 2017, 7, 381-384. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2016.12.019
+title = """[02]	Jun Zhu*(supervisor), Zhengjie Xu, Wenju Xu, Deli Fu, Shuxiang Song. New surface plasmon polariton waveguide based on GaN nanowires. Results in Physics, 2017, 7, 381-384. (Q1, IF = 2.147), DOI:10.1016/j.rinp.2016.12.019
 
 
 """

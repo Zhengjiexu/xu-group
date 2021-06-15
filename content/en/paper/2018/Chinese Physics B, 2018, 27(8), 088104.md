@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = """[09] Zhengjie Xu, Jun Zhu*(supervisor), Wenju Xu, Fu Deli, Cong Hu, Frank Jiang.  Novel graphene enhancement nanolaser based on hybrid plasmonic waveguides at optical communication wavelength. Chinese Physics B, 2018, 27(8), 088104. (Q2, IF = 1.469), DOI:10.1088/1674-1056/27/8/088104 
+title = """[10] Zhengjie Xu, Jun Zhu*(supervisor), Wenju Xu, Fu Deli, Cong Hu, Frank Jiang.  Novel graphene enhancement nanolaser based on hybrid plasmonic waveguides at optical communication wavelength. Chinese Physics B, 2018, 27(8), 088104. (Q2, IF = 1.469), DOI:10.1088/1674-1056/27/8/088104 
 
 """
 

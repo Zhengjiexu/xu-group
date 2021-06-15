@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = """[03]	Jun Zhu*(supervisor), Zhengjie Xu (co-first author). Tunable temperature sensor based on integrated plasmonic grating, Optical Materials Express, 2019, 9(2), 435 - 440. (Q1, IF = 3.064), DOI:10.1364/OME.9.000435
+title = """[12]	Jun Zhu*(supervisor), Zhengjie Xu (co-first author). Tunable temperature sensor based on integrated plasmonic grating, Optical Materials Express, 2019, 9(2), 435 - 440. (Q1, IF = 3.064), DOI:10.1364/OME.9.000435
 
 
 """

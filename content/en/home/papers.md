@@ -35,18 +35,19 @@ subtitle = ""
    [[content.filter_button]]
      name = "2017"
      tag = "2017"
-     
+  
   [[content.filter_button]]
+    name = "Participant"
+    tag = "Participant"      
+ 
+ [[content.filter_button]]
     name = "All"
     tag = "*"
       
    #[[content.filter_button]]
     #name = "Review"
     #tag = "Review"
-  
-  [[content.filter_button]]
-    name = "Participant"
-    tag = "Participant" 
+
 
   #[[content.filter_button]]
   #  name = "Internship"

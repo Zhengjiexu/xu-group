@@ -18,5 +18,5 @@ summary = """
 tags = ["Participant"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://doi.org/10.1016/j.orgel.2021.106102"
+external_link = "https://www.sciencedirect.com/science/article/abs/pii/S1566119921000422?via%3Dihub"
 +++

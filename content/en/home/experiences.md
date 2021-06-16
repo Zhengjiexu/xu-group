@@ -74,6 +74,7 @@ date_format = "Jan 2006"
   Accomplishments include:
   
   * National academic scholarship (first prize of Ph.D degree), 2019
+  * National academic scholarship (second prize of Ph.D degree), 2020
   """
 
 #[[experience]]

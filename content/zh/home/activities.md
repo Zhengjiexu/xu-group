@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 140  # Order that this section will appear.
 
-title = "Activities"
+title = "课外活动"
 subtitle = ""
 
 [content]
@@ -76,17 +76,15 @@ subtitle = ""
 +++
 2017 – 2018 <br>
 
-[1] Presidium, Graduate Student Association, Guangxi Normal University Communist Youth
-League
+[1] 广西师范大学研究生会, 主席团
 
-[2] Excellent Student Leader, ‘Jinggang Mountain Chinese Dream’ National College Summer
-Practice Special Action, Chinese Communist Youth League
+[2] 全国青少年井冈山革命传统教育基地总1516期培训班暨2017年“井冈情、中国梦”全国大学生暑期实践专项行动（第一期）培训班,优秀学员负责人
 
-[3] Excellent Student Cadre and Excellent League Members, "May 4th" Assessment,
-Guangxi Normal University Communist Youth League
+[3] 广西师范大学共青团2018年“五四”评优, 优秀学干
 
-[4] Excellent Planner, 17th Graduate Table Tennis and Badminton Competition, Graduate Basketball Competition and 5th Graduate Cheerleading Competition, Guangxi Normal University Communist Youth League
+[4] 第十七届研究生乒羽联赛, 篮球比赛, 啦啦操比赛, 优秀策划者
 
-[5] gold medalist in men's singles badminton group of 17th Graduate Table Tennis and Badminton Competition
+[5] 第十七届研究生乒羽联赛, 羽毛球男子单打冠军
+
 
 

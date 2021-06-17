@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experiences"
+title = "经历"
 subtitle = ""
 
 # Date format for experience
@@ -33,48 +33,47 @@ date_format = "Jan 2006"
   #"""
 
 [[experience]]
-  title = "B.E. in Communication Engineering"
-  company = "Nanfang College of Sun Yat-Sen University"
+  title = "通信工程，本科"
+  company = "中山大学南方学院"
   company_url = ""
-  location = "Guangzhou, China"
+  location = "广州，中国"
   date_start = "2012-09-01"
   date_end = "2016-07-01"
   description = """
-  Accomplishments include:
+  奖项 包括:
   
-  * Excellent Dissertation for Bachelor's Degree
+  * 本科优秀毕业论文
   """
 
 [[experience]]
-  title = "MA.Eng in Electronics and Communications Engineering"
-  company = "Guangxi Normal University"
+  title = "电子与通信工程，硕士"
+  company = "广西师范大学"
   company_url = ""
-  location = "Guilin, China"
+  location = "桂林，中国"
   date_start = "2016-09-01"
   date_end = "2019-07-01"
   description = """
-  Accomplishments include:
+  奖项 包括:
   
-  * Provincial Outstanding Master Graduate (Only 1 person in the whole college), 2019
-  * Outstanding Master Graduate of Guangxi Normal University, 2019
-  * Excellent Master Thesis of Guangxi Normal University, 2019 
-  * National Scholarship for Graduate Students (Rank 1st), 2018
-  * National Academic Scholarship (first prize of master's degree) (Rank 1st), 2017
-  * Admission Academic Scholarship of Guangxi Normal University, 2016
+  * 广西壮族自治区硕士优秀毕业生（全院仅1人）, 2019
+  * 广西师范大学硕士优秀毕业生, 2019
+  * 硕士优秀毕业论文, 2019 
+  * 研究生国家奖学金 (排名 第一), 2018
+  * 国家学业奖学金（硕士一等奖） (排名 第一), 2017
+  * 入学学业奖学金, 2016
   """
 
 [[experience]]
-  title = "Ph.D in Condensed Matter Physics"
-  company = "Southern China Normal University"
+  title = "凝聚态物理，博士"
+  company = "华南师范大学"
   company_url = ""
-  location = "Guangzhou, China"
+  location = "广州，中国"
   date_start = "2019-09-01"
   date_end = "2022-07-01"
   description = """
-  Accomplishments include:
+  奖项 包括:
   
-  * National academic scholarship (first prize of Ph.D degree), 2019
-  * National academic scholarship (second prize of Ph.D degree), 2020
+  * 国家学业奖学金（博士一等奖）, 2019
   """
 
 #[[experience]]

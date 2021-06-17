@@ -19,8 +19,13 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+<<<<<<< HEAD:content/ch/home/papers.md
    
   [[content.filter_button]]
+=======
+  
+ [[content.filter_button]]
+>>>>>>> 0b5515a73352e3c039632f5a7104534e373d6eef:content/zh/home/papers.md
     name = "2021"
     tag = "2021"
     
@@ -47,6 +52,18 @@ subtitle = ""
    #[[content.filter_button]]
     #name = "Review"
     #tag = "Review"
+<<<<<<< HEAD:content/ch/home/papers.md
+=======
+  
+  [[content.filter_button]]
+    name = "Participant"
+    tag = "Participant"  
+    
+   [[content.filter_button]]
+    name = "All"
+    tag = "*"
+    
+>>>>>>> 0b5515a73352e3c039632f5a7104534e373d6eef:content/zh/home/papers.md
 
 
   #[[content.filter_button]]

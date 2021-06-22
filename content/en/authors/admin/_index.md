@@ -76,5 +76,5 @@ user_groups:
 - Visitors
 ---
 
-  Xu received his Ph.D degrees from Institute for Advanced Materials (IAM) Academy of Advanced Optoelectronics, South China Normal University, China, in 2022. Xu as the main contributor published more than 18 technical articles with a total IF over 30. He has over 5 granted and patents.  
+  Xu received his Ph.D degrees from Institute for Advanced Materials (IAM) Academy of Advanced Optoelectronics, South China Normal University, China, in 2022. Xu as the main contributor published more than 24 technical articles with a total IF over 70. He has over 5 granted and patents.  
 

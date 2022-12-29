@@ -13,8 +13,8 @@ summary = """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["2021"]
+tags = ["2022"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://pubs.acs.org/doi/10.1021/acsaem.0c02992"
+external_link = "https://doi.org/10.1039/D2EE01016J"
 +++

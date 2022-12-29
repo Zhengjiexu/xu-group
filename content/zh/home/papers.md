@@ -19,8 +19,7 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-    
-    
+  
  [[content.filter_button]]
     name = "2021"
     tag = "2021"
@@ -49,9 +48,9 @@ subtitle = ""
     name = "All"
     tag = "*"
 
-# [[content.filter_button]]
-   # name = "Internship"
-   # tag = "Internship"
+  #[[content.filter_button]]
+  #  name = "Internship"
+  #  tag = "Internship"
 
   #[[content.filter_button]]
   #  name = "Competition"
